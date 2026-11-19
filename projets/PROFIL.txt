@@ -1,0 +1,2 @@
+nom: GNEKA ishod
+parcours: GL
